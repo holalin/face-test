@@ -1,0 +1,6 @@
+name: emotion310
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+prefix: C:\Users\31411\anaconda3\envs\emotion310
